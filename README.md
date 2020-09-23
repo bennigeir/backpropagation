@@ -3,7 +3,7 @@ Implementation of the back-propagation algorithm using only the linear algebra a
 
 We will restrict ourselves to fully-connected feed forward neural networks with one hidden layer (plus an input and an output layer).
 
-#Credits to Jón Guðnason and Eyjólfur Ingi Ásgeirsson on their Data Mining and Machine Learning course at RU.
+Credits to Jón Guðnason and Eyjólfur Ingi Ásgeirsson on their Data Mining and Machine Learning course at RU.
 
 ### The Sigmoid function
 We will use the following nonlinear activation function:
